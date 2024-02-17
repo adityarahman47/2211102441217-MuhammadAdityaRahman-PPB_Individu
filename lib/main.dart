@@ -1,4 +1,4 @@
-import 'package:2211102441217-MuhammadAdityaRahman-PPB_Individu/column_widget.dart';
+import 'package:2211102441217-MuhammadAdityaRahman-PPB_Individu-main/column_widget.dart';
 import 'package:flutter/material.dart';
    
  void main() {
